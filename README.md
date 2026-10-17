@@ -1,7 +1,7 @@
 # Theory of Computation & Automata Theory (TCS) - JFLAP Assignment
 
 **Student Name:** Aayush Ajay Wanve  
-**Roll No:** 63  
+**Roll No:** 63  ,**Class:** D12C
 
 ---
 
